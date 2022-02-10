@@ -1,1 +1,1 @@
-![main](./../assets/main.jpg)
+![main](https://github.com/TCDPaintYourself/.github/blob/main/assets/main.jpg)
